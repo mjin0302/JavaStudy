@@ -38,7 +38,7 @@ public class EmpMain {
 
 		System.out.println("End Of Program");
 
-	} // end of main()
+	} // end of exe()
 
 	// 목록 조회
 	public void list() {
