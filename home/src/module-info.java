@@ -1,0 +1,2 @@
+module yedam.com.java {
+}
