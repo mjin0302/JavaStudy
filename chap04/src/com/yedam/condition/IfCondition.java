@@ -2,7 +2,7 @@ package com.yedam.condition;
 
 import java.util.Scanner;
 
-public interface IfCondition {
+public class IfCondition {
 	public static void main(String[] args) {
 		int score = 93;
 		
