@@ -1,4 +1,4 @@
-package com.yedam;
+package com.yedam.java;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -176,20 +176,4 @@ public class EmpDAO {
 		}
 		return r;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 }
