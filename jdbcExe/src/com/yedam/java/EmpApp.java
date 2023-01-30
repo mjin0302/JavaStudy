@@ -1,4 +1,4 @@
-package com.yedam;
+package com.yedam.java;
 
 public class EmpApp {
 

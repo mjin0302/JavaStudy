@@ -1,4 +1,4 @@
-package com.yedam;
+package com.yedam.java;
 
 import java.util.List;
 import java.util.Scanner;
@@ -38,7 +38,7 @@ public class EmpMain {
 
 		System.out.println("End Of Program");
 
-	} // end of exe()
+	} // end of main()
 
 	// 목록 조회
 	public void list() {
